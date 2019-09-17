@@ -26,5 +26,20 @@
 * For our purpose, we'll assume that we want to start a career in DL and AI research. 
 
 
+# History of Deep Learning:
+* Has been around since the early 1940s at least. Has undergone a number of rebrandings.
+* Known as <b>Cybernetics</b> 1940s-1960s, <b>Connectionism</b> 1980s-1990s, <b>Deep Learning</b> 2006 onwards.
+* Initially modelled after / inspired by the human brain, for 2 main reasons (two way street with the brain):
+ 1. Reverse engineer the brain, since the brain generally does well on the tasks assigned to it
+ 2. Understand how the brain works using ML, extrapolating how ML works to hwo to the brain might work
+
+# Increasing Dataset Sizes:
+* Makes it easier to remove the skill required for Deep Learning. Since models generally do better with more data.
+* Rule of Thumb - Acceptable performance needs 5000 labelled examples per category. The model will match or exceed human performance when trained on a dataset containing at least 10 million labelled examples.
+
+# Increasing Model Sizes:
+* Getting around to the number of connections in a typical mammal vertebrate's Central Nervous System.
+* Enabled by better CPUs and GPUs.
+
 
   
